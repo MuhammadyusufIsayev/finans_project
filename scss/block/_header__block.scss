@@ -1,0 +1,21 @@
+
+.nav2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 33px 0;
+    & li{
+        list-style: none;
+        font-family: "Ubuntu" sans-serif;
+    }
+    ul{
+        display: flex;
+        align-items: center;
+        gap: 30px;
+    }
+    .nav2_buttons{
+        display: flex;
+        gap: 15px;
+        align-items: center;
+    }
+}
