@@ -20,6 +20,8 @@
 .nav2 li {
   list-style: none;
   font-family: "Ubuntu" sans-serif;
+  color: #0000DE;
+  font-size: 18px;
 }
 .nav2 ul {
   display: flex;
